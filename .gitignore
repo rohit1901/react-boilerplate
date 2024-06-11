@@ -1,0 +1,12 @@
+# IDEs
+.idea
+
+# Node.js
+node_modules
+
+# MacOS files
+.DS_Store
+
+# lock files
+yarn.lock
+package-lock.json
