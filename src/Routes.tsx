@@ -7,7 +7,7 @@ export const Routes = () => {
         <Route path="/about" component={() => <About/>} />
         <Route path="/:anything*">
             <center>
-                <b>404:</b> Sorry, this page isn't ready yet!
+                <b>404:</b> Sorry, this page isn&apos;t ready yet!
             </center>
         </Route>
     </Switch>

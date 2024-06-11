@@ -4,7 +4,7 @@ import {Routes} from "./Routes.tsx";
 
 function App() {
     return (
-        <div className="App">
+        <div className="App container">
             <nav>
                 <Link href="/">Home</Link>
                 <Link href="/about">About Us</Link>
